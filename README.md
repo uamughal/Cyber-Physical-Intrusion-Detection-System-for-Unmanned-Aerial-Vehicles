@@ -40,3 +40,25 @@ with various complexities?
 - Will the range of the attacks included in the training data
 impact the ability of the IDS to detect unseen attacks with
 various complexities?
+
+
+# Citing this work
+- If you use our implementation, you are encouraged to cite [our paper](https://ieeexplore.ieee.org/document/10368002).
+- This work is published in *IEEE Transactions on Intelligent Transportation Systems (2023).
+- This work was supported by the National Science Foundation (NSF) Energy, Power, Control, and Networks Program
+(EPCN) under Award 2220346 *
+
+
+``` 
+
+@article{hassler2023cyber,
+  title={Cyber-Physical Intrusion Detection System for Unmanned Aerial Vehicles},
+  author={Hassler, Samuel Chase and Mughal, Umair Ahmad and Ismail, Muhammad},
+  journal={IEEE Transactions on Intelligent Transportation Systems},
+  year={2023},
+  publisher={IEEE}
+}
+
+``` 
+
+
